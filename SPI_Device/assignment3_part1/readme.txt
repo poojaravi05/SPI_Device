@@ -67,17 +67,3 @@ Ensure that host Ethernet connection is on same netmask & you will be able execu
 
 ./main  -- this command will begin execution the object file
 
-=========
-Authors
-=========
-
-NITHEESH MUTHURAJ 
-ASU ID:1213383988
-nitheesh@asu.edu
-+1-4804981497
- 
-REVANTH RAJSHEKAR 
-ASU ID:1213380816
-rmrajash@asu.edu
-+1-480-519-4975
-
